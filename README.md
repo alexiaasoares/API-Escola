@@ -6,7 +6,7 @@ API REST simples para gerenciar alunos e professores.
 
 ## Como rodar 
 
-##3 Instalar dependências
+## 3 Instalar dependências
 ```bash
 
 npm i
