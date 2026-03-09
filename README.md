@@ -39,8 +39,8 @@ Abra o navegador em: `http://localhost:3000`
 |--------|----------|-----------|
 | GET | `/professores` | Lista todos os professores (com filtro por ano) |
 | POST | `/professores` | Cria um novo professor | 
-| PUT | `/professores` | Atualiza um professor | 
-| DELETE | `/professores` | Remove um professor
+| PUT | `/professores:id` | Atualiza um professor | 
+| DELETE | `/professores:id` | Remove um professor
 
 ## Tecnologias
 - Node.js
